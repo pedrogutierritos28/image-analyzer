@@ -1,10 +1,10 @@
-# 🖼️ Image Analyzer
+# Image Analyzer
 
 Aplicación de escritorio en Java para visualizar y procesar imágenes con una interfaz gráfica moderna. Permite aplicar filtros, ajustar canales de color y analizar el histograma RGB en tiempo real.
 
 ---
 
-## ✨ Características
+## Características
 
 - **Carga de imágenes** por diálogo de archivo o arrastrar y soltar (drag & drop)
 - **Histograma RGB + Luminosidad** con escala lineal o logarítmica y visibilidad por canal
@@ -19,14 +19,14 @@ Aplicación de escritorio en Java para visualizar y procesar imágenes con una i
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 - Java 21 o superior
 - Maven 3.6+
 
 ---
 
-## 🚀 Instalación y ejecución
+## Instalación y ejecución
 
 ### Clonar el repositorio
 
